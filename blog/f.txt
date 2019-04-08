@@ -1,0 +1,6 @@
+护照 =》 活动
+	下单页面、首页（踏青） 
+/ylx_pay/WebRoot/jsp/possport/possportIndex.js
+/ylx_pay/WebRoot/jsp/possport/possportSubmit.js
+
+充值页面 =》 mct
